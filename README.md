@@ -1,11 +1,11 @@
-About r-msos
-============
+About r-msos-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-msos-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/coatless/msos, https://coatless.github.io/msos/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-msos-feedstock/blob/main/LICENSE.txt)
 
 Summary: Multivariate Analysis methods and data sets used in John Marden's book Multivariate Statistics: Old School (2015) <ISBN:978-1456538835>. This also serves as a companion package for the STAT 571: Multivariate Analysis course offered by the Department of Statistics at the University of Illinois at Urbana-Champaign ('UIUC').
 
